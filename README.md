@@ -64,3 +64,4 @@ If you find *btcrecover* helpful, please consider a small donation:
  * Automated seed recovery with a simple graphical user interface
  * “Offline” mode for nearly all supported wallets - use one of the [extract scripts (click for more information)](docs/Extract_Scripts.md) to extract just enough information to attempt password recovery, without giving *btcrecover* or whoever runs it access to *any* of the addresses or private keys in your Bitcoin wallet.
  * “Nearly offline” mode for Armory - use an [extract script (click for more information)](docs/Extract_Scripts.md) to extract a single private key for attempting password recovery. *btcrecover* and whoever runs it will only have access to this one address/private key from your Bitcoin wallet (read the link above for an important caveat).
+ * Donate: bc1qpx6jucg6z50tlc8xcdf6gruss848jyawn52yea
